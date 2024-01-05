@@ -1,4 +1,4 @@
-- ### 👋 Hi, I'm Shivani Gupta
+👋 Hi, I'm Shivani Gupta
 🚀 Passionate PHP Developer exploring new technologies.
 🌱 Eager to learn and adapt to the latest tech trends.
 💻 Currently honing my skills in PHP development.
