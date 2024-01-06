@@ -6,7 +6,7 @@
 
 💻 Currently honing my skills in PHP development.
 
-💬 Let's connect:shivanigupta5634.
+💬 Let's connect on Linkedin : shivanigupta5634.
 
 📫 Reach me at: shivanigupta5634769@gmail.com.
 <!---
